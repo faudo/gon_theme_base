@@ -1,2 +1,2 @@
-# carrollton
-Carrollton theme
+# gon_theme_base
+GON Theme Base
